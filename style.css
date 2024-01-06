@@ -36,3 +36,9 @@ footer {
     text-align: center;
     font-family: "Indie Flower", cursive;
   }
+  button{
+  color: #4ecca3;
+  background-color: #232931;
+   font-size: 30px;
+   border-radius: 10px;
+  }
